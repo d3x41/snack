@@ -46,7 +46,7 @@
     "react-native-screens": "^4.0.0",
     "react-native-view-shot": "~4.0.0",
     "react-native-web": "~0.19.13",
-    "snack-runtime": "file:../packages/snack-runtime"
+    "snack-runtime": "0.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
