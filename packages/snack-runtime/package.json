@@ -35,7 +35,7 @@
     "diff": "^5.0.0",
     "escape-string-regexp": "^5.0.0",
     "path": "^0.12.7",
-    "pubnub": "^7.2.0",
+    "pubnub": "^8.0.0",
     "snack-babel-standalone": "^4.0.0",
     "snack-content": "~3.5.0",
     "snack-require-context": "^0.1.0",
