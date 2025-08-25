@@ -33,7 +33,7 @@
     "enhanced-resolve": "^4.1.1",
     "escape-string-regexp": "^1.0.5",
     "express": "^4.17.1",
-    "form-data": "^2.4.0",
+    "form-data": "^2.5.5",
     "git-url-parse": "^11.2.0",
     "hasha": "^3.0.0",
     "image-size": "^0.5.4",
