@@ -47,7 +47,7 @@
     "js-cookie": "^2.2.0",
     "jsesc": "^3.0.2",
     "json-to-ast": "^2.1.0",
-    "koa": "^2.6.2",
+    "koa": "^3.0.1",
     "koa-bodyparser": "^4.2.1",
     "koa-compose": "^4.1.0",
     "koa-compress": "^3.0.0",
